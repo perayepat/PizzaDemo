@@ -1,4 +1,15 @@
 # Pizza Demo
+
+## Screenshots
+
+![](Images/img1.png)
+![](Images/img2.png)
+![](Images/img3.png)
+![](Images/img4.png)
+![](Images/img5.png)
+![](Images/img6.png)
+
+
 ## Description 
 
 This app allows you to order an item and add a comment to your pizza order.
